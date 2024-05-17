@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1019927254502",
+    "project_id": "financier-33e55",
+    "storage_bucket": "financier-33e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019927254502:android:d2ac707491be217eacf227",
+        "android_client_info": {
+          "package_name": "com.example.financier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019927254502-ufmknk7jk1rn30d2njtp0v65pkoorem8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.financier",
+            "certificate_hash": "d08df8f356c598a408e0792710734eb11ccc504f"
+          }
+        },
+        {
+          "client_id": "1019927254502-d2ht0bfsf43ottf6a5mh067d8e6cvtg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv4JpKXsFb59bSohJrgkgfp753qx_14bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019927254502-d2ht0bfsf43ottf6a5mh067d8e6cvtg3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1019927254502-tgnjc1biii49enpjcb3g48l4u6u8scds.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.financier"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
